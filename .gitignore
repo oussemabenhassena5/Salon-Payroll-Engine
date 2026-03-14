@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.db
+*.jsonl
+Salon-Payroll-Engine.zip
+.claude/

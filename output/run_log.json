@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-03-14T14:43:01.473335Z",
+  "paths": {
+    "path_dates": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/work_new/Tabela_Datas.xlsx",
+    "path_bridge_service_categories": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/work_new/bridge_service_categories.xlsx",
+    "path_master_employee": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/work_new/master_employee.xlsx",
+    "path_hours_worked": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/work_new/hours_worked.xlsx",
+    "path_database": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/output/Database.xlsx",
+    "path_missing_services": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/output/missing_services.xlsx",
+    "path_missing_employees": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/output/missing_employees.xlsx",
+    "path_hours_summ": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/output/hours_worked_summ.xlsx",
+    "path_final_database": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/output/final_database.xlsx",
+    "path_exception_report": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/output/exception_report.xlsx",
+    "path_adp_import": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/output/ADP_payroll_import.csv",
+    "path_trinet_import": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/output/Trinet_payroll_import.csv",
+    "path_paylocity_import": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/output/Paylocity_payroll_import.csv",
+    "path_location_summary": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/output/location_summary.xlsx",
+    "path_run_log": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/output/run_log.json",
+    "path_warehouse": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/output/payroll_warehouse.db",
+    "path_trend_report": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/output/payroll_trend_report.xlsx",
+    "path_payroll_cost_by_location": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/output/payroll_cost_by_location.xlsx",
+    "path_override_audit_log": "/Users/macmini/Desktop/personal/Up/16-Python-Sales-Analysis-App/output/override_audit.jsonl"
+  },
+  "period_first": "2024-11-10",
+  "period_last": "2024-11-16",
+  "validation_issues_count": 1,
+  "row_counts": {
+    "database": 2379,
+    "payroll": 72,
+    "exceptions": 51
+  }
+}

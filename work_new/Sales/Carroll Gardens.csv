@@ -1,0 +1,149 @@
+,metric,Marwa Abuhamdeh�,Ruben Blanco,Yudith Cortorreal-Diaz,Benjamin Gasper,Veronica Hernandez,Juan Landrau,Felicia Mani,Yulieth Medina,Giulia Odasso,Annmarie Parker,Mercedes Valle,Total
+Payroll
+Commission,commission,0.00,0.00,0.00,0.00,0.00,813.21,0.00,0.00,273.78,0.00,0.00,1086.99
+Service,serviceCommission,0.00,0.00,0.00,0.00,0.00,790.45,0.00,0.00,271.28,0.00,0.00,1061.73
+Service total,serviceTotal,155.00,196.00,225.00,1620.00,569.00,2143.00,390.00,111.00,788.00,770.00,1965.00,8932.00
+Minus Service cost,serviceCost,-112.50,-29.40,-136.75,-209.77,-79.46,-304.75,-44.00,-16.65,-109.80,-55.80,-242.25,-1341.13
+Net service total,netServiceTotal,42.50,166.60,88.25,1410.23,489.54,1838.25,346.00,94.35,678.20,714.20,1722.75,7590.87
+Series,coursesCommission,0.00,0.00,0.00,0.00,0.00,15.66,0.00,0.00,0.00,0.00,0.00,15.66
+Series completed total,coursesTotal,0.00,62.86,0.00,0.00,0.00,42.86,83.33,0.00,0.00,0.00,45.83,234.88
+Minus Series cost,coursesCost,0.00,-7.54,0.00,0.00,0.00,-6.43,-10.00,0.00,0.00,0.00,-6.87,-30.84
+Net series completed total,netCoursesTotal,0.00,55.32,0.00,0.00,0.00,36.43,73.33,0.00,0.00,0.00,38.96,204.04
+Product,productCommission,0.00,0.00,0.00,0.00,0.00,7.10,0.00,0.00,2.50,0.00,0.00,9.60
+Product total,productTotal,0.00,0.00,0.00,52.00,0.00,71.00,0.00,0.00,25.00,0.00,29.00,177.00
+Expert Recommendations,onlineProductCommission,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Online Product Total,onlineProductTotal,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Wages,wages,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Standard pay,standardPay,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Hours worked (hh:mm),hoursWorked,0,1020,480,1440,960,1200,270,0,360,600,1320,7650
+Hourly rate,hourlyRate,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Tips,tips,38.75,25.00,29.25,318.40,116.55,284.10,90.25,22.20,72.00,147.75,403.75,1548.00
+Total,total,38.75,25.00,29.25,318.40,116.55,1097.31,90.25,22.20,345.78,147.75,403.75,2634.99
+Rostered Days
+Days Worked,daysWorked,0,2.13,1.00,3.00,2.00,2.50,0.56,0,0.75,1.25,2.75,15.94
+Days Off,daysOff,0,0,0,0,0,0,0,0,0,0,0,0
+Performance (rev)
+Services,servicesAmount,155.00,196.00,225.00,1620.00,569.00,2143.00,390.00,111.00,788.00,770.00,1965.00,8932.00
+Color,serviceCategoryAmount,50.00,125.00,0.00,1166.00,388.00,1010.00,0.00,0.00,380.00,230.00,830.00,4179.00
+Additional Bowl/Lightener,serviceAmount,50.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,50.00
+Balayage Highlights,serviceAmount,0.00,0.00,0.00,165.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,165.00
+Express Single,serviceAmount,0.00,10.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,10.00
+Full Head Highlights,serviceAmount,0.00,0.00,0.00,0.00,180.00,235.00,0.00,0.00,0.00,0.00,0.00,415.00
+Gloss,serviceAmount,0.00,0.00,0.00,0.00,0.00,100.00,0.00,0.00,100.00,115.00,0.00,315.00
+Gloss Add-On,serviceAmount,0.00,0.00,0.00,345.00,55.00,180.00,0.00,0.00,0.00,0.00,240.00,820.00
+Half Head of Highlights,serviceAmount,0.00,0.00,0.00,150.00,0.00,195.00,0.00,0.00,0.00,0.00,390.00,735.00
+No-Ammonia Color Process (formerly INOA),serviceAmount,0.00,115.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,115.00
+Partial Highlight,serviceAmount,0.00,0.00,0.00,200.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,200.00
+Shadow Root (add-on with highlights),serviceAmount,0.00,0.00,0.00,130.00,65.00,0.00,0.00,0.00,0.00,0.00,0.00,195.00
+Single Process,serviceAmount,0.00,0.00,0.00,176.00,88.00,300.00,0.00,0.00,280.00,115.00,200.00,1159.00
+Cut,serviceCategoryAmount,0.00,71.00,0.00,299.00,71.00,650.00,390.00,71.00,360.00,450.00,850.00,3212.00
+Barbering,serviceAmount,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,60.00,0.00,0.00,60.00
+Haircut,serviceAmount,0.00,71.00,0.00,284.00,71.00,490.00,100.00,71.00,300.00,120.00,700.00,2207.00
+Long Hair,serviceAmount,0.00,0.00,0.00,15.00,0.00,15.00,0.00,0.00,0.00,0.00,0.00,30.00
+Shape That Curl Cut,serviceAmount,0.00,0.00,0.00,0.00,0.00,145.00,290.00,0.00,0.00,0.00,0.00,435.00
+[hydrate] cut,serviceAmount,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,330.00,0.00,330.00
+[scalp treatment] cut,serviceAmount,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,150.00,150.00
+Education,serviceCategoryAmount,105.00,0.00,180.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,285.00
+Model Blow Dry,serviceAmount,15.00,0.00,30.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,45.00
+Model Full Head Highlights,serviceAmount,45.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,45.00
+Model Gloss,serviceAmount,30.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,30.00
+Model Gloss Add on,serviceAmount,15.00,0.00,30.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,45.00
+Model Half Head Highlight,serviceAmount,0.00,0.00,90.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,90.00
+Model Single Process,serviceAmount,0.00,0.00,30.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,30.00
+Express Conditioning Treatments,serviceCategoryAmount,0.00,0.00,0.00,0.00,0.00,0.00,0.00,40.00,0.00,0.00,20.00,60.00
+Goldwell 60-Second Mask,serviceAmount,0.00,0.00,0.00,0.00,0.00,0.00,0.00,40.00,0.00,0.00,0.00,40.00
+Goldwell Intensive Conditioning Serum,serviceAmount,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,20.00,20.00
+Indulgent Conditioning Treatments,serviceCategoryAmount,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,45.00,0.00,45.00
+Deep Conditioning Mask,serviceAmount,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,45.00,0.00,45.00
+Scalp Treatments,serviceCategoryAmount,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,45.00,0.00,45.00
+Scalp Treatment,serviceAmount,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,45.00,0.00,45.00
+Style,serviceCategoryAmount,0.00,0.00,45.00,155.00,110.00,108.00,0.00,0.00,48.00,0.00,265.00,731.00
+Blow Dry,serviceAmount,0.00,0.00,0.00,55.00,110.00,108.00,0.00,0.00,48.00,0.00,60.00,381.00
+Flat Iron,serviceAmount,0.00,0.00,45.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,45.00,90.00
+Long hair Blow dry,serviceAmount,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,75.00,75.00
+[hydrate] Blow dry,serviceAmount,0.00,0.00,0.00,100.00,0.00,0.00,0.00,0.00,0.00,0.00,85.00,185.00
+Texture Reformation,serviceCategoryAmount,0.00,0.00,0.00,0.00,0.00,375.00,0.00,0.00,0.00,0.00,0.00,375.00
+Lasio Keratin Treatment,serviceAmount,0.00,0.00,0.00,0.00,0.00,375.00,0.00,0.00,0.00,0.00,0.00,375.00
+Series,courseServicesAmount,0.00,62.86,0.00,0.00,0.00,42.86,83.33,0.00,0.00,0.00,45.83,234.88
+Color,courseServiceCategoryAmount,0.00,62.86,0.00,0.00,0.00,0.00,83.33,0.00,0.00,0.00,0.00,146.19
+Single Process,courseServiceAmount,0.00,62.86,0.00,0.00,0.00,0.00,83.33,0.00,0.00,0.00,0.00,146.19
+Style,courseServiceCategoryAmount,0.00,0.00,0.00,0.00,0.00,42.86,0.00,0.00,0.00,0.00,45.83,88.69
+Blow Dry,courseServiceAmount,0.00,0.00,0.00,0.00,0.00,42.86,0.00,0.00,0.00,0.00,45.83,88.69
+Products,productsAmount,0.00,0.00,0.00,52.00,0.00,71.00,0.00,0.00,25.00,0.00,29.00,177.00
+Goldwell,productBrandAmount,0.00,0.00,0.00,29.00,0.00,45.00,0.00,0.00,0.00,0.00,29.00,103.00
+Mizani,productBrandAmount,0.00,0.00,0.00,23.00,0.00,26.00,0.00,0.00,25.00,0.00,0.00,74.00
+Total,total,155.00,258.86,225.00,1672.00,569.00,2256.86,473.33,111.00,813.00,770.00,2039.83,9343.88
+Performance (stats)
+Services,servicesQuantity,6,3,8,21,7,19,3,2,9,7,21,106
+Color,serviceCategoryQuantity,2,2,0,14,4,9,0,0,4,2,8,45
+Additional Bowl/Lightener,serviceQuantity,2,0,0,0,0,0,0,0,0,0,0,2
+Balayage Highlights,serviceQuantity,0,0,0,1,0,0,0,0,0,0,0,1
+Express Single,serviceQuantity,0,1,0,0,0,0,0,0,0,0,0,1
+Full Head Highlights,serviceQuantity,0,0,0,0,1,1,0,0,0,0,0,2
+Gloss,serviceQuantity,0,0,0,0,0,1,0,0,1,1,0,3
+Gloss Add-On,serviceQuantity,0,0,0,6,1,3,0,0,0,0,4,14
+Half Head of Highlights,serviceQuantity,0,0,0,1,0,1,0,0,0,0,2,4
+No-Ammonia Color Process (formerly INOA),serviceQuantity,0,1,0,0,0,0,0,0,0,0,0,1
+Partial Highlight,serviceQuantity,0,0,0,2,0,0,0,0,0,0,0,2
+Shadow Root (add-on with highlights),serviceQuantity,0,0,0,2,1,0,0,0,0,0,0,3
+Single Process,serviceQuantity,0,0,0,2,1,3,0,0,3,1,2,12
+Cut,serviceCategoryQuantity,0,1,0,5,1,7,3,1,4,3,8,33
+Barbering,serviceQuantity,0,0,0,0,0,0,0,0,1,0,0,1
+Haircut,serviceQuantity,0,1,0,4,1,5,1,1,3,1,7,24
+Long Hair,serviceQuantity,0,0,0,1,0,1,0,0,0,0,0,2
+Shape That Curl Cut,serviceQuantity,0,0,0,0,0,1,2,0,0,0,0,3
+[hydrate] cut,serviceQuantity,0,0,0,0,0,0,0,0,0,2,0,2
+[scalp treatment] cut,serviceQuantity,0,0,0,0,0,0,0,0,0,0,1,1
+Education,serviceCategoryQuantity,4,0,6,0,0,0,0,0,0,0,0,10
+Model Blow Dry,serviceQuantity,1,0,1,0,0,0,0,0,0,0,0,2
+Model Full Head Highlights,serviceQuantity,1,0,0,0,0,0,0,0,0,0,0,1
+Model Gloss,serviceQuantity,1,0,0,0,0,0,0,0,0,0,0,1
+Model Gloss Add on,serviceQuantity,1,0,2,0,0,0,0,0,0,0,0,3
+Model Half Head Highlight,serviceQuantity,0,0,2,0,0,0,0,0,0,0,0,2
+Model Single Process,serviceQuantity,0,0,1,0,0,0,0,0,0,0,0,1
+Express Conditioning Treatments,serviceCategoryQuantity,0,0,0,0,0,0,0,1,0,0,1,2
+Goldwell 60-Second Mask,serviceQuantity,0,0,0,0,0,0,0,1,0,0,0,1
+Goldwell Intensive Conditioning Serum,serviceQuantity,0,0,0,0,0,0,0,0,0,0,1,1
+Indulgent Conditioning Treatments,serviceCategoryQuantity,0,0,0,0,0,0,0,0,0,1,0,1
+Deep Conditioning Mask,serviceQuantity,0,0,0,0,0,0,0,0,0,1,0,1
+Scalp Treatments,serviceCategoryQuantity,0,0,0,0,0,0,0,0,0,1,0,1
+Scalp Treatment,serviceQuantity,0,0,0,0,0,0,0,0,0,1,0,1
+Style,serviceCategoryQuantity,0,0,2,2,2,2,0,0,1,0,4,13
+Assistant Shampoo,serviceQuantity,0,0,1,0,0,0,0,0,0,0,0,1
+Blow Dry,serviceQuantity,0,0,0,1,2,2,0,0,1,0,1,7
+Flat Iron,serviceQuantity,0,0,1,0,0,0,0,0,0,0,1,2
+Long hair Blow dry,serviceQuantity,0,0,0,0,0,0,0,0,0,0,1,1
+[hydrate] Blow dry,serviceQuantity,0,0,0,1,0,0,0,0,0,0,1,2
+Texture Reformation,serviceCategoryQuantity,0,0,0,0,0,1,0,0,0,0,0,1
+Lasio Keratin Treatment,serviceQuantity,0,0,0,0,0,1,0,0,0,0,0,1
+Series,courseServicesQuantity,0,1,0,0,0,1,1,0,0,0,1,4
+Color,courseServiceCategoryQuantity,0,1,0,0,0,0,1,0,0,0,0,2
+Single Process,courseServiceQuantity,0,1,0,0,0,0,1,0,0,0,0,2
+Style,courseServiceCategoryQuantity,0,0,0,0,0,1,0,0,0,0,1,2
+Blow Dry,courseServiceQuantity,0,0,0,0,0,1,0,0,0,0,1,2
+Products,productsQuantity,0,0,0,2,0,2,0,0,1,0,1,6
+Goldwell,productBrandQuantity,0,0,0,1,0,1,0,0,0,0,1,3
+Mizani,productBrandQuantity,0,0,0,1,0,1,0,0,1,0,0,3
+Utilization,staffUtilisation,0.0%,10.6%,93.8%,48.6%,35.9%,72.1%,72.2%,0.0%,87.5%,45.8%,67.4%,58.7
+Hours Available (hh:mm),staffUtilisationHoursAvailable,0,1020,480,1440,960,1200,270,0,360,600,1320,7650
+Hours Utilized,staffUtilisationHoursUtilised,280,108,450,700,345,865,195,65,315,275,890,4488
+Requests,requestsTotal,0.0%,0.0%,0.0%,5.0%,14.3%,20.0%,25.0%,0.0%,33.3%,42.9%,9.1%,13.8
+New requests,newRequests,0.0%,0.0%,0.0%,0.0%,0.0%,20.0%,25.0%,0.0%,11.1%,42.9%,9.1%,10.1
+Existing requests,existingRequests,0.0%,0.0%,0.0%,5.0%,14.3%,0.0%,0.0%,0.0%,22.2%,0.0%,0.0%,3.7
+Non requests,nonRequests,100.0%,100.0%,100.0%,95.0%,85.7%,80.0%,75.0%,100.0%,66.7%,57.1%,90.9%,86.2
+Visits,visits,1,3,4,7,4,10,4,1,6,3,13,56
+New clients,newClientVisits,1,1,4,5,3,2,3,0,2,1,8,30
+Returning clients,returningClientVisits,0,2,0,2,1,8,1,1,4,2,5,26
+Walk-in clients,walkInClientVisits,0,0,0,0,0,0,0,0,0,0,0,0
+Average revenue (per visit),averageRevenue,155.00,86.29,56.25,238.86,142.25,225.69,118.33,111.00,135.50,256.67,156.91,152.98
+Average service revenue,averageRevenueService,155.00,86.29,56.25,231.43,142.25,218.59,118.33,111.00,131.33,256.67,154.68,151.07
+Average product revenue,averageRevenueProduct,0.00,0.00,0.00,7.43,0.00,7.10,0.00,0.00,4.17,0.00,2.23,1.90
+Rebooking,rebooking,0,0,0,5,0,5,1,0,4,2,5,22
+Rebooking percentage,rebookingPercentage,0.0%,0.0%,0.0%,71.4%,0.0%,50.0%,25.0%,0.0%,66.7%,66.7%,38.5%,39.3
+Review rating,reviewRating,3.4,0.0,0.0,0.0,0.0,4.4,0.0,0.0,0.0,4.2,4.4,1.49
+5 star,fiveStar,0,0,0,0,0,2,0,0,0,1,2,5
+4 star,fourStar,1,0,0,0,0,0,0,0,0,0,0,1
+3 star,threeStar,0,0,0,0,0,0,0,0,0,0,0,0
+2 star,twoStar,0,0,0,0,0,0,0,0,0,0,0,0
+1 star,oneStar,0,0,0,0,0,0,0,0,0,0,0,0
+Product upsell,productUpsell,0.0%,0.0%,0.0%,14.3%,0.0%,9.1%,0.0%,0.0%,16.7%,0.0%,7.7%,7.0
