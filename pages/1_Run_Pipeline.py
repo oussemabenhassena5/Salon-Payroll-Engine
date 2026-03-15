@@ -160,9 +160,16 @@ if st.session_state.pipeline_status == "complete" and st.session_state.pipeline_
     m2.metric("Locations", len(location_summary) if location_summary is not None else 0)
     if final is not None and "total_service" in final.columns:
         total_rev = final["total_service"].sum() + final.get("Retail", 0).sum()
-        m3.metric("Total Revenue", f"${total_rev:,.0f}")
         total_comm = final.get("service_comission", 0).sum() + final.get("total_retail_commission", 0).sum()
-        m4.metric("Total Commission", f"${total_comm:,.0f}")
+        # Use K format for large numbers to avoid truncation
+        def _fmt(v):
+            if v >= 1_000_000:
+                return f"${v / 1_000_000:.1f}M"
+            if v >= 1_000:
+                return f"${v / 1_000:.1f}K"
+            return f"${v:,.0f}"
+        m3.metric("Total Revenue", _fmt(total_rev))
+        m4.metric("Total Commission", _fmt(total_comm))
     m5.metric("Exceptions", len(exception_df) if exception_df is not None else 0)
     m6.metric("Validation Issues", len(validation_issues))
 

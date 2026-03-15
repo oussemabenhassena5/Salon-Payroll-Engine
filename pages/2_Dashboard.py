@@ -42,11 +42,18 @@ with tab_current:
             total_rev = total_svc + total_ret
             pct = round(total_comm / total_rev * 100, 1) if total_rev > 0 else 0
 
+            def _fmt(v):
+                if v >= 1_000_000:
+                    return f"${v / 1_000_000:.1f}M"
+                if v >= 1_000:
+                    return f"${v / 1_000:.1f}K"
+                return f"${v:,.0f}"
+
             k1, k2, k3, k4, k5, k6 = st.columns(6)
-            k1.metric("Total Service", f"${total_svc:,.0f}")
-            k2.metric("Total Retail", f"${total_ret:,.0f}")
-            k3.metric("Total Tips", f"${total_tips:,.0f}")
-            k4.metric("Total Commission", f"${total_comm:,.0f}")
+            k1.metric("Total Service", _fmt(total_svc))
+            k2.metric("Total Retail", _fmt(total_ret))
+            k3.metric("Total Tips", _fmt(total_tips))
+            k4.metric("Total Commission", _fmt(total_comm))
             k5.metric("Payroll % Revenue", f"{pct}%")
             k6.metric("Employees", len(final))
 
